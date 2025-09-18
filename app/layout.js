@@ -8,9 +8,9 @@ const inter = Inter({ subsets: ['latin'] })
 
 export const metadata = {
   title: 'Zain Ahmad Fahrezi - Portfolio',
-  description: 'Portfolio website of Zain Ahmad Fahrezi - Full Stack Developer',
+  description: 'Portfolio website of Dimas Darma Praja - Full Stack Developer',
   keywords: 'portfolio, developer, react, next.js, javascript, web development',
-  authors: [{ name: 'Zain Ahmad Fahrezi' }],
+  authors: [{ name: 'Dimas Darma' }],
   viewport: 'width=device-width, initial-scale=1',
 }
 
