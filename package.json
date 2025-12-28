@@ -23,10 +23,13 @@
     "next": "14.2.4",
     "react": "18.2.0",
     "react-dom": "18.2.0",
-    "tailwindcss": "^3.4.1"
+    "tailwindcss": "^3.4.1",
+    "react-icons": "^5.x"
   },
   "devDependencies": {
-    "prisma": "^6.16.1"
+    "prisma": "^6.16.1",
+    "postcss": "^8.x",
+    "autoprefixer": "^10.x"
   }
 }
 
