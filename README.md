@@ -64,19 +64,3 @@ If you wish to build upon this project or use parts of its ideas/code, **you mus
 Thank you for respecting the developer's work! 🙏
 
 ---
-
-## 💖 Support the Developer
-
-If you find this project helpful and wish to support:
-
-* 💳 **Dana:** 0896-0433-2830
-* 🏦 **BRI Bank Account:** 0342 0107 8321 503 (Zain Ahmad Fahrezi)
-* Paypal : paypal.me/zainahmadfahrezi
-
-Your support mePayns a lot and helps me continue building open-source projects. Thank you! 🙌
-
-## 🌐 Social Media
-
-* 💼 [LinkedIn](https://www.linkedin.com/in/zainahmadfahrezi)
-* 📸 Instagram: [@zain.ahmadf](https://www.instagram.com/zain.ahmadf)
-* 🎥 TikTok: [@zainahmad.f](https://www.tiktok.com/@zainahmad.f)
